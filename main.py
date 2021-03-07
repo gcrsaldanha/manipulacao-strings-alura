@@ -1,3 +1,5 @@
+# Arquivo utilizado até a aula 3, quando então passamos a utilizar a classe
+# ExtratorURL no arquivo extrator_url.py
 url = "bytebank.com/cambio?quantidade=100&moedaOrigem=real&moedaDestino=dolar"
 
 # Sanitização da URL
